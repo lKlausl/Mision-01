@@ -1,4 +1,4 @@
-# Mision-01
+# Misión-01
 
 ## Algoritmos.
 

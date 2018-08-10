@@ -11,7 +11,7 @@ Recuerda seguir los pasos en orden y completar cada uno de ellos para tener éxi
 4. Subir el documento a tu cuenta (botón 'Upload files')
 5. Crear un Pull request para avisarme que has cumplido completamente la misión.
 
-Si completas la misión correctamente y dentro del tiempo indicado, conservaras todos tus HP. Por otro lado, si fallas, podrías perder hasta 1250 HP.
+Si completas la misión correctamente y dentro del tiempo indicado, conservarás todos tus HP. Por otro lado, si fallas, podrías perder hasta 1250 HP.
 
 ¿Quién dice que no se puede?
 

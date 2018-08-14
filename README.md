@@ -15,4 +15,4 @@ Si completas la misión correctamente y dentro del tiempo indicado, conservarás
 
 ¿Quién dice que no se puede?
 
-La primeras 5 personas que *terminen* la misión ganarán 100 XP.
+Las primeras 5 personas que *terminen* la misión ganarán 100 XP.
